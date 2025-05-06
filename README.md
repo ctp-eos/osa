@@ -8,7 +8,7 @@ At **CTP Energy**, we firmly believe in the power of collaboration, transparency
 
 The **CTP-EOS Linux** operating system is an embodiment of this philosophy, driven by **CTP Open Source Advocacy: CTP-OSA**. By releasing CTP-EOS Linux as an **open-source project**, we aim to provide a **cutting-edge platform** that **benefits** from the **collective intelligence** and **creativity** of the **global open-source community**. Through **CTP-EOS Linux**, we hope to lead by example, encouraging others to adopt, contribute to, and support free and open technology.
 
-### **CTP Open Source Advocacy (CTP-OSA): Our Core Value for the Linux/user-space ecosystem**
+### **CTP Open Source Advocacy (CTP-OSA): Our Core Value for the Linux desktop/user-space ecosystem**
 
 The commitment to **open-source software** isn’t just a technical decision for us—it’s a **core value**. Open-source software is a powerful tool for innovation, sustainability, and community-driven progress. We recognize that **CTP-EOS Linux** represents much more than just a tool for personal and professional use; it’s part of a larger movement to foster a **new paradigm in software development and distribution**.
 

@@ -4,7 +4,7 @@ Welcome to **CTP-EOS Linux**, the innovative operating system designed with **CT
 
 ### **CTP-EOS Linux: An OS Built on Values**
 
-At **CTP Energy**, we firmly believe in the power of collaboration, transparency, and freedom *(when it comes to the digital/tech platorms we are on)*. Our mission goes beyond just developing software and hardware solutions—it’s about creating ecosystems where ideas, tools, and technologies are shared, modified, and improved by all. This belief is encapsulated in our advocacy for **FOSS**, a movement that ensures software is accessible to everyone and can be freely used, modified, and distributed.
+At **CTP Energy**, we firmly believe in the power of collaboration, transparency, and freedom *(when it comes to the digital/tech platforms we are on)*. Our mission goes beyond just developing software and hardware solutions—it’s about creating ecosystems where ideas, tools, and technologies are shared, modified, and improved by all. This belief is encapsulated in our advocacy for **FOSS**, a movement that ensures software is accessible to everyone and can be freely used, modified, and distributed.
 
 The **CTP-EOS Linux** operating system is an embodiment of this philosophy, driven by **CTP Open Source Advocacy**. By releasing CTP-EOS Linux as an open-source project, we aim to provide a cutting-edge platform that benefits from the collective intelligence and creativity of the global open-source community. Through **CTP-EOS Linux**, we hope to lead by example, encouraging others to adopt, contribute to, and support free and open technology.
 

@@ -65,8 +65,8 @@ At **CTP-EOS Linux**, we believe that **open-source software** is the key to a m
 
 * [GitHub Repository](https://github.com/ctp-eos)
 * [Official Website](https://www.ctp-eos.org)
-# Comment [Community Forum](https://forum.ctp-eos.com)
-# Comment [Donate to CTP Open Source Advocacy](https://www.ctp-eos.com/donate)
+# Comment: [Community Forum](https://forum.ctp-eos.com)
+# Comment: [Donate to CTP Open Source Advocacy](https://www.ctp-eos.com/donate)
 
 ---
 

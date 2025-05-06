@@ -4,11 +4,11 @@ Welcome to **CTP-EOS Linux**, the innovative operating system designed with **CT
 
 ### **CTP-EOS Linux: An OS Built on Values**
 
-At **CTP Energy**, we firmly believe in the power of collaboration, transparency, and freedom *(when it comes to the digital/tech platforms we are on. While other portions of CTPSci Sciences are under tradesecrets/IP - we beleive that open-sourced solutions work better in online/digital tech community formats.)*. Our mission goes beyond just developing software and hardware solutions—it’s about creating ecosystems where ideas, tools, and technologies are shared, modified, and improved by all. This belief is encapsulated in our advocacy for **FOSS**, a movement that ensures software is accessible to everyone and can be freely used, modified, and distributed.
+At **CTP Energy**, we firmly believe in the power of collaboration, transparency, and freedom *(when it comes to the digital/tech platforms we are on. While other portions of CTPSci Sciences are under tradesecrets/IP - we believe that open-sourced solutions work better in online/digital tech community formats.)*. Our mission goes beyond just developing software and hardware solutions—it’s about creating ecosystems where ideas, tools, and technologies are shared, modified, and improved by all. This belief is encapsulated in our advocacy for **FOSS**, a movement that ensures software is accessible to everyone and can be freely used, modified, and distributed.
 
-The **CTP-EOS Linux** operating system is an embodiment of this philosophy, driven by **CTP Open Source Advocacy**. By releasing CTP-EOS Linux as an open-source project, we aim to provide a cutting-edge platform that benefits from the collective intelligence and creativity of the global open-source community. Through **CTP-EOS Linux**, we hope to lead by example, encouraging others to adopt, contribute to, and support free and open technology.
+The **CTP-EOS Linux** operating system is an embodiment of this philosophy, driven by **CTP Open Source Advocacy: CTP-OSA**. By releasing CTP-EOS Linux as an **open-source project**, we aim to provide a **cutting-edge platform** that **benefits** from the **collective intelligence** and **creativity** of the **global open-source community**. Through **CTP-EOS Linux**, we hope to lead by example, encouraging others to adopt, contribute to, and support free and open technology.
 
-### **CTP Open Source Advocacy: Our Core Value**
+### **CTP Open Source Advocacy (CTP-OSA): Our Core Value for the Linux/user-space ecosystem**
 
 The commitment to **open-source software** isn’t just a technical decision for us—it’s a **core value**. Open-source software is a powerful tool for innovation, sustainability, and community-driven progress. We recognize that **CTP-EOS Linux** represents much more than just a tool for personal and professional use; it’s part of a larger movement to foster a **new paradigm in software development and distribution**.
 

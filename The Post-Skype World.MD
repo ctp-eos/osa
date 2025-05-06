@@ -88,4 +88,6 @@ With the fall of Skype, users are unshackled from proprietary surveillance syste
 If you're working on CTP Energy research, coordinating citizen science, or broadcasting to the fringe, these tools let you stay secure, private, and sovereign.
 
 📡 **Empower your voice. Choose open networks. Choose CTP-EOS. Choose Digital Freedom**
-```
+
+---
+
